@@ -2,6 +2,7 @@
 
 module.exports = {
     extends: 'rowno',
+    env: { es6: true }
     rules: {
         // ES6
         'arrow-parens': 1,

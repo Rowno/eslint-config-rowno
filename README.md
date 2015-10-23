@@ -29,7 +29,6 @@ root: true
 extends: rowno/es6
 env:
     node: true
-    es6: true
 ```
 
 
