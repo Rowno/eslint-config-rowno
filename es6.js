@@ -5,9 +5,9 @@ module.exports = {
     rules: {
         // ES6
         'arrow-parens': 1,
-        'arrow-spacing': [1, { 'before': true, 'after': true }],
+        'arrow-spacing': [1, { before: true, after: true }],
         'constructor-super': 2,
-        'generator-star-spacing': [1, { 'before': true, 'after': false }],
+        'generator-star-spacing': [1, { before: true, after: false }],
         'no-class-assign': 2,
         'no-const-assign': 2,
         'no-dupe-class-members': 2,
