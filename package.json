@@ -1,0 +1,17 @@
+{
+  "name": "eslint-config-rowno",
+  "version": "1.0.0",
+  "description": "Opinionated ESLint config",
+  "author": "Roland Warmerdam (https://roland.codes)",
+  "keywords": [
+    "eslint",
+    "eslintconfig"
+  ],
+  "repository": "Rowno/eslint-config-rowno",
+  "license": "ISC",
+  "main": "index.js",
+  "files": [
+    "index.js",
+    "es6.js"
+  ]
+}
