@@ -5,10 +5,12 @@ module.exports = {
     env: { es6: true },
     rules: {
         // ES6
+        'arrow-body-style': [2, 'as-needed'],
         'arrow-parens': 1,
         'arrow-spacing': [1, { before: true, after: true }],
         'constructor-super': 2,
         'generator-star-spacing': [1, { before: true, after: false }],
+        'no-arrow-condition': 2,
         'no-class-assign': 2,
         'no-const-assign': 2,
         'no-dupe-class-members': 2,
