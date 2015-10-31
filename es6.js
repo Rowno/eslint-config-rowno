@@ -5,7 +5,7 @@ module.exports = {
     env: { es6: true },
     rules: {
         // ES6
-        'arrow-body-style': [2, 'as-needed'],
+        'arrow-body-style': 0,
         'arrow-parens': 1,
         'arrow-spacing': [1, { before: true, after: true }],
         'constructor-super': 2,
