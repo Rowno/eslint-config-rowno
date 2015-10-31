@@ -1,7 +1,7 @@
 'use strict';
 
 module.exports = {
-    extends: 'rowno',
+    extends: './index.js',
     env: { es6: true },
     rules: {
         // ES6

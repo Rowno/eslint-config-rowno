@@ -1,5 +1,7 @@
 # eslint-config-rowno
 
+[![Build Status](https://api.travis-ci.org/Rowno/eslint-config-rowno.svg?branch=master)](https://travis-ci.org/Rowno/eslint-config-rowno)
+
 Opinionated ESLint config. Focuses on flagging code breaking problems as errors, and bad practices and opinionated styles as warnings.
 
 Contains ES5 and ES6 rule sets.
