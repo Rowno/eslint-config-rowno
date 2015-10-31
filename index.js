@@ -172,5 +172,12 @@ module.exports = {
         'space-unary-ops': [1, { words: true, nonwords: false }],
         'spaced-comment': [1, 'always'],
         'wrap-regex': 1,
+        // Legacy
+        'max-depth': 0,
+        'max-len': 0,
+        'max-params': 0,
+        'max-statements': 0,
+        'no-bitwise': 0,
+        'no-plusplus': [1, { allowForLoopAfterthoughts: true }],
     }
 };
