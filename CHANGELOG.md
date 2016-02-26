@@ -2,6 +2,10 @@
 All notable changes to this project will be documented in this file.
 This project follows [Semantic Versioning](http://semver.org).
 
+## 3.0.0 / 2016-02-27
+ - change: upgrade to eslint 2.2.0.
+ - add: all the new rules.
+
 ## 2.1.0 / 2015-11-01
  - change: disable arrow-body-style.
 
