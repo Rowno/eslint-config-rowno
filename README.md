@@ -24,7 +24,7 @@ env:
     node: true
 ```
 
-Or include the ES6 rules:
+Or include the ES5 and ES6 rules:
 ```yaml
 ---
 root: true
