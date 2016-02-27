@@ -143,7 +143,7 @@ module.exports = {
         'lines-around-comment': [1, { beforeBlockComment: true, beforeLineComment: false, allowBlockStart: true }],
         'linebreak-style': [1, 'unix'],
         'max-nested-callbacks': 0,
-        'new-cap': [1, { newIsCap: true, capIsNew: false }],
+        'new-cap': 1,
         'new-parens': 1,
         'newline-after-var': 0,
         'newline-per-chained-call': [1, { ignoreChainWithDepth: 3 }],
