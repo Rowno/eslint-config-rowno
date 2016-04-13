@@ -2,6 +2,9 @@
 All notable changes to this project will be documented in this file.
 This project follows [Semantic Versioning](http://semver.org).
 
+## 3.2.0 / 2016-04-13
+ - change: disable the no-magic-numbers rule.
+
 ## 3.1.0 / 2016-02-27
  - change: only allow caps functions for constructors.
 
