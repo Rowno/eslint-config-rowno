@@ -1,8 +1,6 @@
 root: true
-extends:
-    - ./es6.js
+extends: ./es6.js
 env:
     node: true
 rules:
-    no-magic-numbers: 0
     quote-props: [1, 'consistent-as-needed']

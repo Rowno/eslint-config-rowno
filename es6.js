@@ -14,6 +14,7 @@ module.exports = {
         'no-confusing-arrow': 2,
         'no-const-assign': 2,
         'no-dupe-class-members': 2,
+        'no-duplicate-imports': 2,
         'no-new-symbol': 2,
         'no-this-before-super': 2,
         'no-useless-constructor': 1,
