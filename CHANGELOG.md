@@ -2,6 +2,10 @@
 All notable changes to this project will be documented in this file.
 This project follows [Semantic Versioning](http://semver.org).
 
+## 3.3.0 / 2016-04-19
+ - change: upgrade to eslint 2.8.0.
+ - add: new rules.
+
 ## 3.2.0 / 2016-04-13
  - change: disable the no-magic-numbers rule.
 
