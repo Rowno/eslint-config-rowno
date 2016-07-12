@@ -2,6 +2,11 @@
 All notable changes to this project will be documented in this file.
 This project follows [Semantic Versioning](http://semver.org).
 
+## 3.4.0 / 2016-07-11
+ - change: relax camelcase.
+ - remove: require-yield.
+ - remove: newline-before-return.
+
 ## 3.3.0 / 2016-04-19
  - change: upgrade to eslint 2.8.0.
  - add: new rules.
