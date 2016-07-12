@@ -2,6 +2,10 @@
 All notable changes to this project will be documented in this file.
 This project follows [Semantic Versioning](http://semver.org).
 
+## 4.0.0 / 2016-07-12
+ - change: upgrade to eslint 2.13.1.
+ - add: new rules.
+
 ## 3.4.0 / 2016-07-11
  - change: relax camelcase.
  - remove: require-yield.
