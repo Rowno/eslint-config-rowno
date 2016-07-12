@@ -17,7 +17,9 @@ module.exports = {
         'no-duplicate-imports': 2,
         'no-new-symbol': 2,
         'no-this-before-super': 2,
+        'no-useless-computed-key': 1,
         'no-useless-constructor': 1,
+        'no-useless-rename': 1,
         'no-var': 1,
         'object-shorthand': [1, 'always'],
         'prefer-arrow-callback': 1,
@@ -27,6 +29,7 @@ module.exports = {
         'prefer-rest-params': 1,
         'prefer-template': 1,
         'require-yield': 0,
+        'rest-spread-spacing': [1, 'never'],
         'template-curly-spacing': [1, 'never'],
         'yield-star-spacing': 1,
     }
