@@ -1,3 +1,5 @@
+# 🚨 DEPRECATED 🚨
+
 # eslint-config-rowno
 
 [![Build Status](https://api.travis-ci.org/Rowno/eslint-config-rowno.svg?branch=master)](https://travis-ci.org/Rowno/eslint-config-rowno)
